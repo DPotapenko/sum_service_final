@@ -4,7 +4,7 @@ package com.example.sum_service;
 import javax.persistence.*;
 
 @Entity
-@Table (name = "test_table")
+@Table (name = "test_tab")
 public class Model {
 
     @Id
